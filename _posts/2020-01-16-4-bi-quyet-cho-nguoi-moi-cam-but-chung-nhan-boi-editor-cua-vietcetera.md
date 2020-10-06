@@ -5,4 +5,4 @@ subtitle:
 categories: Creative
 tags: [self-written]
 ---
-[Xem thêm](https://vietcetera.com/vn/4-bi-quyet-cho-nguoi-moi-cam-but-chung-nhan-boi-editor-cua-vietcetera)
+[Xem bài viết](https://vietcetera.com/vn/4-bi-quyet-cho-nguoi-moi-cam-but-chung-nhan-boi-editor-cua-vietcetera)

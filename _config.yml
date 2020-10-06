@@ -4,7 +4,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Minh Thu's Portfolio
+title: Portfolio
 email: nhmthuwnnh@gmail.com
 author: GitHub User
 copyright: Copyright © 1970-2010

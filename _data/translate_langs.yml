@@ -1,10 +1,2 @@
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
-
-- lang: en
-  img: https://www.countryflags.io/us/flat/64.png
-  text: English
-
-- lang: de
-  img: https://www.countryflags.io/de/flat/64.png
-  text: Deutsch

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ra Lò\: Các cách "chữa cháy" khi bạn hết nguyên liệu chế biến
+title: 'Ra Lò \: Các cách "chữa cháy" khi bạn hết nguyên liệu chế biến'
 subtitle: 
 categories: Food
 tags: [self-written]

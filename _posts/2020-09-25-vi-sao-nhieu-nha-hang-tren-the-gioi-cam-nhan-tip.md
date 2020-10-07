@@ -2,7 +2,7 @@
 layout: post
 title: Vì sao nhiều nhà hàng trên thế giới cấm nhận tip?
 subtitle: 
-categories: Food
+categories: Off The Menu
 tags: [self-written]
 ref: "https://vietcetera.com/vn/vi-sao-nhieu-nha-hang-tren-the-gioi-cam-nhan-tip"
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Ăn vặt thế nào cho lành mạnh?
 subtitle: 
-categories: Food
+categories: Off The Menu
 tags: [self-written, commentary]
 ref: "https://vietcetera.com/vn/an-vat-the-nao-cho-lanh-manh"
 ---

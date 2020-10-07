@@ -6,4 +6,4 @@ categories: Food
 tags: [self-written]
 ref: "https://vietcetera.com/vn/ra-lo-mon-dalgona-coffee-giai-toa-buon-chan-mua-dich"
 ---
-[Xem thêm](https://vietcetera.com/vn/ra-lo-mon-dalgona-coffee-giai-toa-buon-chan-mua-dich)
+[Xem bài viết](https://vietcetera.com/vn/ra-lo-mon-dalgona-coffee-giai-toa-buon-chan-mua-dich)

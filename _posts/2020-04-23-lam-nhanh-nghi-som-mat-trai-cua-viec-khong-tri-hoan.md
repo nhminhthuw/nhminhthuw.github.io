@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "“Làm nhanh nghỉ sớm” - Mặt trái của việc không trì hoãn"
+title: '"Làm nhanh nghỉ sớm" - Mặt trái của việc không trì hoãn'
 subtitle:
 categories: Business
 tags: [self-written]

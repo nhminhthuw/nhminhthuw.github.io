@@ -4,5 +4,6 @@ title: "Ra Lò: Những mẻ bánh mì theo cấp độ từ 'cực dễ' đến
 subtitle: 
 categories: Food
 tags: [self-written, adaptation]
+ref: "https://vietcetera.com/vn/ra-lo-nhung-me-banh-mi-theo-cap-do-tu-cuc-de-den-hoi-kho"
 ---
 [Xem bài viết](https://vietcetera.com/vn/ra-lo-nhung-me-banh-mi-theo-cap-do-tu-cuc-de-den-hoi-kho)

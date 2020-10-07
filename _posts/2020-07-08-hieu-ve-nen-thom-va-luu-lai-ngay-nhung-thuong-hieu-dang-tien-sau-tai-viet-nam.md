@@ -4,5 +4,6 @@ title: 'Hiểu về nến thơm và lưu lại ngay những thương hiệu "đ�
 subtitle:
 categories: Living
 tags: [self-written]
+ref: "https://vietcetera.com/vn/hieu-ve-nen-thom-va-luu-lai-ngay-nhung-thuong-hieu-dang-tien-sau-tai-viet-nam"
 ---
 [Xem bài viết](https://vietcetera.com/vn/hieu-ve-nen-thom-va-luu-lai-ngay-nhung-thuong-hieu-dang-tien-sau-tai-viet-nam)

@@ -3,6 +3,6 @@ layout: post
 title: FEURO — Trải nghiệm ẩm thực châu Âu cao cấp trên chiếc xe máy
 subtitle: 
 categories: Food
-tags: [self-written, adaptation]
+tags: [adaptation]
 ---
 [Xem bài viết](https://vietcetera.com/vn/feuro-trai-nghiem-am-thuc-chau-au-cao-cap-tren-chiec-xe-may)

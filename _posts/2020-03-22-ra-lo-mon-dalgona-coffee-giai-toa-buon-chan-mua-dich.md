@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ra Lò: Món Dalgona Coffee giải toả buồn chán mùa dịch
+title: "Ra Lò: Món Dalgona Coffee giải toả buồn chán mùa dịch"
 subtitle: 
 categories: Food
 tags: [self-written]

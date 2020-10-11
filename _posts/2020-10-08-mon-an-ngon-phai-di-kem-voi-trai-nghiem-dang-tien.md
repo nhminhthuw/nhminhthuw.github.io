@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4 Bí quyết cho người mới cầm bút, chứng nhận bởi Editor của Vietcetera
+title: 'Saigon Sip City: "Món ăn ngon phải đi kèm với trải nghiệm đáng tiền"'
 subtitle: 
 categories: Off-The-Menu
 tags: [adaptation]
